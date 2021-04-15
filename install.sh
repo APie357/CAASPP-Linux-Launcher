@@ -4,6 +4,6 @@ wget https://files.portal.cambiumast.com/california/SecureBrowsers/SB2020/CASecu
 tar xfjv CASecureBrowser12.5-2020-06-17-x86_64.tar.bz2
 cd CASecureBrowser
 ./install-icon.sh
-Installed Sucessfully!
-Run the command below to start the browser:
-~/CASecureBrowser/
+echo Installed Sucessfully!
+echo Run the command below to start the browser:
+echo ~/CASecureBrowser/CASecureBrowser
